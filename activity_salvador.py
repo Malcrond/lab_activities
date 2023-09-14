@@ -1,0 +1,6 @@
+print("Mon Nikolai R. Salvador")
+print("BSCS")
+print("CS1D")
+print("20")
+print("02/04/03")
+print("Zone 9 Cugman Malasag CDOC 9000 Misamis Oriental Philippines")
